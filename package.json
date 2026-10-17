@@ -1,0 +1,13 @@
+{
+  "name": "video-agent",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "video": "node scripts/video_agent.js"
+  },
+  "dependencies": {
+    "googleapis": "^120.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "puppeteer": "^21.0.0"
+  }
+}
